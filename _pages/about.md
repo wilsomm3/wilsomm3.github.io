@@ -1,28 +1,27 @@
 ---
 
-title: "About David Florian"
+title: "About Maggie Wilson"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Maggie is pursuing what she calls a customized degree in biomedical engineering where she will have gained skills in management, manufacturing, and programming.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE Biomedical Engineering (coming soon: May 2025)
+    * Digital Fabrication
+    * Computer Science
+    * Engineering Management
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Maggie can design from software to hardware components. She has made CAD models into 3D printed parts as well as computer programs into electrical components. Her prototyping skills are listed below:
 
+* CAD Design (CSWA Certified)
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Java and C++ Programming
+* Soldering and Electrical Safety
 
 ## Press 
 
