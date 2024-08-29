@@ -16,7 +16,7 @@ Maggie is pursuing what she calls a customized degree in biomedical engineering 
 
 ## Technical Skills
 
-Maggie can design from software to hardware components. She has made CAD models into 3D printed parts as well as computer programs into electrical components. Her prototyping skills are listed below:
+Maggie can design to interface software and hardware components. She has turned her CAD models into 3D printed parts as well as her computer programs into functioning electrical components. Her prototyping skills are listed below:
 
 * CAD Design (CSWA Certified)
 * Fused Filament Fabrication (FFF)
