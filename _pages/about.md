@@ -25,6 +25,6 @@ Maggie can design to interface software and hardware components. She has turned 
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Maggie and Delaney Clawson, VU '24, wrapped up their Summer 2024 Product Development internships with Medacta, USA on August 16.
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+![Maggie and Delaney, Summer 2024 Interns at Medacta](/assets/img/IMG_6972.jpg)
