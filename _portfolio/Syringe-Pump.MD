@@ -16,4 +16,4 @@ header:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4806a535b816c4399?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Arduino Code
-<iframe src=https://app.arduino.cc/sketches/10db4069-85a7-4e58-bffd-baaf771bee5d?view-mode=preview?embed style="height:510px;width:100%;margin:10px 0" frameborder=0></iframe>
+Follow [this link](https://app.arduino.cc/sketches/10db4069-85a7-4e58-bffd-baaf771bee5d?view-mode=preview) to view our code.
