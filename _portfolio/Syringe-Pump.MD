@@ -2,7 +2,6 @@
 title: "DIY Syringe Pump"
 excerpt: "A 1 kg/hr pellet extruder and 1 cubic meter build envelope for printing furniture."
 header:
-  image: /assets/img/syringe-pump.jpg
   teaser: /assets/img/syringe-pump.jpg
    
 ---
