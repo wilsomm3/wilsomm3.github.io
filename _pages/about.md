@@ -8,7 +8,7 @@ I am looking for a job in the medical device industry where I can combine protot
 
 ## Education
 
-I am pursuing a degree in biomedical engineering where she will have gained skills in management, manufacturing, and programming due to intentional additions to my course curriculum.
+I am pursuing a degree in biomedical engineering where I will have gained skills in management, manufacturing, and programming due to intentional additions to my course curriculum.
 
 * Vanderbilt University
   * BE Biomedical Engineering (May 2025)
