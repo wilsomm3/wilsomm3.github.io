@@ -13,6 +13,10 @@ feature_row:
   - image_path: assets/img/syringe-pump.jpg
     title: "DIY Syringe Pump"
     excerpt: "3D printed parts and stepper motor working to precisely control fluid delivery out of a syringe."
+  - image_path: assets/img/IMG_6425.jpg
+    title: "Floating Enlarged Shoulder Implants"
+    excerpt: "10x scaled-up models of Medacta shoulder implants 3D printed to magnetically float in a display for trade shows."
+    
 ---
 
 {% include feature_row %}
