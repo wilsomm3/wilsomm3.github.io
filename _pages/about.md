@@ -31,10 +31,10 @@ After getting my start in the medical device industry with an internship in Medt
 I can design to interface software and hardware components. I have turned my CAD models into 3D printed parts as well as my computer programs into functioning electrical components. My prototyping skills are listed below:
 
 * CAD Design (CSWA Certified)
-* Fused Filament Fabrication (FFF)
 * Java and C++ Programming
 * Soldering and Electrical Safety
 * Digital Fabrication Tools:
+  * Fused Filament Fabrication (FFF)
   * Laser Cutting (coming soon)
 
 ## Awards
@@ -43,6 +43,6 @@ I can design to interface software and hardware components. I have turned my CAD
 
 ## Recent Update
 
-Delaney Clawson, VU '24, and I wrapped up our Summer 2024 Product Development internships with Medacta, USA on August 16.
+Delaney Clawson, VU '24, and I wrapped up our Summer 2024 Product Development internships with Medacta, USA on August 16, 2024.
 
 ![Maggie and Delaney, Summer 2024 Interns at Medacta](/assets/img/IMG_6972.jpg)
