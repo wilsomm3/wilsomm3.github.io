@@ -38,7 +38,8 @@ The aim of this project is to design and develop a syringe pump that overcomes t
 | Part Name                      | Quantity      |
 | ------------------------------ |:-------------:|
 | Motor Mounting Plate           | 1             |
-| End Supports with Syringe Slots| 2             |
+| End Support for Syringe Nozzle | 1             |
+| End Support for Middle Syringe | 1             |
 | Carriage with Syringe Slot     | 1             |
 | Enclosure Lid                  | 1             |
 | Enclosure Base                 | 1             |
