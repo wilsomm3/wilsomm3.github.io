@@ -22,6 +22,13 @@ header:
 | LM8UU linear bearing for 8mm diameter rod| 2             |
 | 2040 aluminum extrusion 1 inch length    | 1             |
 | Nema 17 stepper motor                    | 1             |
+| MeanWell AC-DC quad output power supply  | 1             |
+| Arduino Uno                              | 1             |
+| A4988 stepper driver                     | 1             |
+| Small breadboard                         | 1             |
+| Panel mount latching push buttons        | 1             |
+| Limit switch                             | 1             |
+| RGB common cathode LED                   | 1             |
 
 # 3D Printed Parts Used
 
