@@ -12,7 +12,7 @@ excerpt: "This website is a resource to document my projects as I progress throu
 feature_row:
   - image_path: assets/img/syringe-pump.jpg
     title: "DIY Syringe Pump"
-    excerpt: "3D printed parts and stepper motor working to precisely control fluid delivery."
+    excerpt: "3D printed parts and stepper motor working to precisely control fluid delivery out of a syringe."
 ---
 
 {% include feature_row %}
