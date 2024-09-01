@@ -6,11 +6,9 @@ header:
 ---
 ![Completed Syringe Pump](/assets/img/syringe-pump.jpg)   
 
-# Features
+# Purpose and Features
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+The aim of this project is to design and develop a syringe pump that overcomes the limitations of traditional syringe pumps, such as flow rate instability, lack of precision, and difficulty in changing flow rates. The pump is compatible with syringes of varying sizes from 5 mL to 20 mL (the one demonstrated here uses a 10 mL one). All electrical components are protected from the user in a 3D printed enclosure, and all the core components are assembled in one unit (electronics enclosure and the pump itself on top).
 
 # Off-the-shelf Parts Used
 
@@ -53,10 +51,8 @@ Our Arduino code [[1](https://app.arduino.cc/sketches/10db4069-85a7-4e58-bffd-ba
 *1. Syringe pump Arduino code for Team Kazoo*
 
 # Pump Operation Instructions
-  Our syringe pump is motor-driven. A latching button mounted on the side of the enclosure is utilized to initiate and stop the pump's movement. It is the black button to the right of the LED light. The pump is also controlled by the limit switch attached to the carriage once the syringe is entirely dispensed, but that will occur automatically. The LED to the right of the black latching button indicates if the pump is running, paused, or out of the liquid. Green means it is running, yellow means it is broken, and red means the syringe is out of fluid.  
+Our syringe pump is motor-driven. A latching button mounted on the side of the enclosure is utilized to initiate and stop the pump's movement. It is the black button to the right of the LED light. The pump is also controlled by the limit switch attached to the carriage once the syringe is entirely dispensed, but that will occur automatically. The LED to the right of the black latching button indicates if the pump is running, paused, or out of the liquid. Green means it is running, yellow means it is broken, and red means the syringe is out of fluid.  
 
-  An additional button on the side of the enclosure changes the motor between clockwise and counterclockwise. When the button is not pressed, the motor will move clockwise, dispensing the liquid. When the button is pressed, the motor will operate counterclockwise. This allows the syringe pump to be reset to its original position without manually turning the lead screw or flexible coupler with your fingers. This button is red and located on the far right of our enclosure. 
+An additional button on the side of the enclosure changes the motor between clockwise and counterclockwise. When the button is not pressed, the motor will move clockwise, dispensing the liquid. When the button is pressed, the motor will operate counterclockwise. This allows the syringe pump to be reset to its original position without manually turning the lead screw or flexible coupler with your fingers. This button is red and located on the far right of our enclosure. 
 
-  A potentiometer controls the flow rate of the syringe pump. The flow rate is displayed in the serial monitor of the Arduino IDE and updates as the potentiometer turns. It is controlled by a dial extruded through the lid of the enclosure. The flow rate increases as the user turns the dial to the left.
-
-
+A potentiometer controls the flow rate of the syringe pump. The flow rate is displayed in the serial monitor of the Arduino IDE and updates as the potentiometer turns. It is controlled by a dial extruded through the lid of the enclosure. The flow rate increases as the user turns the dial to the left.
