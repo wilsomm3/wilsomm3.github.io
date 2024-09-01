@@ -16,7 +16,9 @@ feature_row:
   - image_path: assets/img/IMG_6425.jpg
     title: "Floating Enlarged Shoulder Implants"
     excerpt: "10x scaled-up models of Medacta shoulder implants 3D printed to magnetically float in a display for trade shows."
-    
+  - image_path: assets/img/IMG_7804.jpg
+    title: "Lumpectomy Breast Deformation Research"
+    excerpt: "CT scanned silicon breast model embedded with 1mm steel beads held in retraction for measuring deformation."
 ---
 
 {% include feature_row %}
