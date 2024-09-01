@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "This website is a resource for Maggie to document her projects as she progresses through her biomedical engineering degree and enters her future career."
 feature_row:
-  - image_path: assets/img/Syringe-Pump.jpg
+  - image_path: assets/img/syringe-pump.jpg
     title: "DIY Syringe Pump"
     excerpt: "FFF printed parts with precision control of syringe dispensing. "
 ---
