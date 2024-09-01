@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "This website is a resource for Maggie to document her projects as she progresses through her biomedical engineering degree and enters her future career."
+excerpt: "This website is a resource to document my projects as I progress through my biomedical engineering degree and enter my future career."
 feature_row:
   - image_path: assets/img/syringe-pump.jpg
     title: "DIY Syringe Pump"
