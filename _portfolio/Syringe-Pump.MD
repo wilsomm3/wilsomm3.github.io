@@ -16,6 +16,6 @@ header:
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4806a535b816c4399?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Arduino Code
-To control the flow rate of our syringe, we change a global variable, givenFlowRate in mL/min, in our Arduino code[^1].
+To control the flow rate of our syringe, we change a global variable, givenFlowRate in mL/min, in our Arduino code[[1](https://app.arduino.cc/sketches/10db4069-85a7-4e58-bffd-baaf771bee5d?view-mode=preview)].
 
-[^1]: [Syringe pump Arduino code for Team Kazoo](https://app.arduino.cc/sketches/10db4069-85a7-4e58-bffd-baaf771bee5d?view-mode=preview)
+*1. Syringe pump Arduino code for Team Kazoo*
