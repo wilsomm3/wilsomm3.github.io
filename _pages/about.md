@@ -21,7 +21,7 @@ I am pursuing a degree in biomedical engineering where I will have gained skills
 
 After getting my start in the medical device industry with an internship in Medtronic's spine division, I discovered a passion for the orthopedic field and the mechanical design of surgical instruments and implants. I then pursued an opportunity to learn the product managing side of a company at Medacta USA while still developing my engineering design skills in CAD and rapid prototyping. I love to understand a design well enough to communicate its rationales and constraints to surgeons, allowing for a more seamless design process.
 
-* Summer 2022: Medtronic Spine Wise Intern (Memphis, TN)
+* Summer 2022: Medtronic Spine WISE Intern (Memphis, TN)
 * Summer 2023: Medacta Product Management/Product Development Intern (Franklin, TN)
 * Fall 2023: Medacta Extended Part-time Intern
 * Summer 2024-Present: Medacta Product Management/Product Development Intern (Franklin, TN)
