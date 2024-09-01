@@ -26,9 +26,12 @@ header:
 | Arduino Uno                              | 1             |
 | A4988 stepper driver                     | 1             |
 | Small breadboard                         | 1             |
-| Panel mount latching push buttons        | 1             |
+| Panel mount latching push buttons        | 2             |
 | Limit switch                             | 1             |
 | RGB common cathode LED                   | 1             |
+| Potentiometer                            | 1             |
+| 10mL syringe                             | 1             |
+
 
 # 3D Printed Parts Used
 
@@ -37,6 +40,8 @@ header:
 | Motor Mounting Plate           | 1             |
 | End Supports with Syringe Slots| 2             |
 | Carriage with Syringe Slot     | 1             |
+| Enclosure Lid                  | 1             |
+| Enclosure Base                 | 1             |
 
 
 # CAD Model
