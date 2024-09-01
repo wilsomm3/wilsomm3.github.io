@@ -37,6 +37,10 @@ I can design to interface software and hardware components. I have turned my CAD
 * Digital Fabrication Tools:
   * Laser Cutting (coming soon)
 
+## Awards
+
+* Membership into Tau Beta Pi, Honor Society for Engineering (2023)
+
 ## Recent Update
 
 Delaney Clawson, VU '24, and I wrapped up our Summer 2024 Product Development internships with Medacta, USA on August 16.
