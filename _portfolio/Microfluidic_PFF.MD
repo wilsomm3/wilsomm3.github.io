@@ -23,7 +23,7 @@ Experiment-specific dimensions:
 - Pinched segment width: 800 microns
 - Outlet channels width: 1000 microns
 
-![Dimension Diagram](/assets/img/diagram.jpg)   
+![Dimension Diagram](/assets/img/Diagram.png)   
 
 # Instructions after mold is 3D printed
 1. Post cure the resin-printed mold for 1 minute to keep warping to a minimum
@@ -34,7 +34,9 @@ Experiment-specific dimensions:
 5. Let the PDMS set
 6. Remove from mold and add glass slide
 
-SLA resin printing has a lot of benefits that are essential to 3D manufacturing microfluidic devices, the most notable of which is the small resolution that the ultraviolet laser can cure, or harden, the resin with. In the image below, this would result in a line width on the scale of micrometers. In other words, I could print really small features that would create microchannels in the final PDMS device. However, the biggest drawback of SLA resin printing for this application is that the laser’s scanning pattern inherently leaves some resin uncured in liquid form within the final part. This happens because the cross-sections of the laser lines are parabolas as shown in the image, and with a bunch of parabolas stacked next to each other, there will be empty space where resin does not get cured. The uncured resin will leak from inside the part to the surface over time, which would prevent the PDMS material from hardening in the mold. Therefore, I coated the 3D resin-printed mold in a very thin layer of parylene, a hydrophobic polymer, that keeps the uncured resin from leaking to the surface. After this coating is applied, the mold can be used to make many more microfluidic devices.
+SLA resin printing has a lot of benefits that are essential to 3D manufacturing microfluidic devices, the most notable of which is the small resolution that the ultraviolet laser can cure, or harden, the resin with. In the image below, this would result in a line width on the scale of micrometers. In other words, I could print really small features that would create microchannels in the final PDMS device. However, the biggest drawback of SLA resin printing for this application is that the laser’s scanning pattern inherently leaves some resin uncured in liquid form within the final part. This happens because the cross-sections of the laser lines are parabolas as shown in the image below, and with a bunch of parabolas stacked next to each other, there will be empty space where resin does not get cured. The uncured resin will leak from inside the part to the surface over time, which would prevent the PDMS material from hardening in the mold. Therefore, I coated the 3D resin-printed mold in a very thin layer of parylene, a hydrophobic polymer, that keeps the uncured resin from leaking to the surface. After this coating is applied, the mold can be used to make many more microfluidic devices.
+
+![Parabolic Laser Cross Section](/assets/img/DragonScale.png)  
 
 
 # CAD Model
