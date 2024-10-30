@@ -52,4 +52,4 @@ Pinch flow fractionation is an effective technique for separating particles by s
 
 (From AI generated Google search)
 
-In all of these applications, the greatest benefit of using microfluidic devices compared to other testing devices is the reduced sample volume needed. For example, instead of taking pints of blood a patient can give a sample as small as 5 mL, and the device would function. This significantly reduces cost as well.
+In all of these applications, the greatest benefit of using microfluidic devices compared to other testing devices is the reduced sample volume needed. For example, instead of taking pints of blood, a patient can give a sample as small as 5 mL, and the device would function. This significantly reduces cost as well.
