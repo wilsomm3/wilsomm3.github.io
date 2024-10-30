@@ -1,5 +1,5 @@
 ---
-title: "Microfluidic Pinch Flow Fractionation Device"
+title: "µfluidic Pinch Flow Fractionation Device"
 excerpt: "Separates particles by size."
 header:
   teaser: /assets/img/IMG_7778.jpg
