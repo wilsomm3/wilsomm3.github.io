@@ -49,6 +49,7 @@ Pinch flow fractionation is an effective technique for separating particles by s
 - DNA mutation diagnoses when DNA segments have been cleaved and are smaller than others
 - Testing blood by separating it into red blood cells, white blood cells, and platelets
 - Identifying environmental pollutants in water
+
 (From AI generated Google search)
 
 In all of these applications, the greatest benefit of using microfluidic devices compared to other testing devices is the reduced sample volume needed. For example, instead of taking pints of blood a patient can give a sample as small as 5 mL, and the device would function. This significantly reduces cost as well.
