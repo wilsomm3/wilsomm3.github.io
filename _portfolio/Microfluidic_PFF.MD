@@ -53,8 +53,3 @@ Pinch flow fractionation is an effective technique for separating particles by s
 (From AI generated Google search)
 
 In all of these applications, the greatest benefit of using microfluidic devices compared to other testing devices is the reduced sample volume needed. For example, instead of taking pints of blood a patient can give a sample as small as 5 mL, and the device would function. This significantly reduces cost as well.
-
-An additional button on the side of the enclosure changes the motor between clockwise and counterclockwise. When the button is not pressed, the motor will move clockwise, dispensing the liquid. When the button is pressed, the motor will operate counterclockwise. This allows the syringe pump to be reset to its original position without manually turning the lead screw or flexible coupler with your fingers. This button is red and located on the far right of our enclosure. 
-
-A potentiometer controls the flow rate of the syringe pump. The flow rate is displayed in the serial monitor of the Arduino IDE and updates as the potentiometer turns. It is controlled by a dial extruded through the lid of the enclosure. The flow rate increases as the user turns the dial to the left.
-
