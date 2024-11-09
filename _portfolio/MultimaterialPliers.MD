@@ -2,18 +2,17 @@
 title: "Multimaterial Pliers"
 excerpt: "Functional pliers 3D printed out of a combo of TPU and PLA."
 header:
-  teaser: /assets/img/IMG_7778.jpg
+  teaser: /assets/img/Holding.jpg
 ---
-![Completed PFF Device](/assets/img/IMG_7778.jpg)   
+![Iteration1](/assets/img/Holding.jpg)   
 
 # Purpose
 
 The aim of this project is to design and develop a microfluidic device, using resin 3D printing technology, that can separate particles based on their size. The method used for separation is pinch flow fractionation (PFF).
 
 
-# Conducive Geometries for PFF
+# About Multimaterial Parts
 
-There should be two inlets: inlet 1 through which a liquid with the different-sized particles is fed and inlet 2 through which a liquid without any particles is fed. The size of these inlet channels should be wide enough not to induce any controlled flow profiles. Inlet 2 should have a flow rate that is about 6x as fast as the flow rate from inlet 1. The two channels will meet at a relatively short in length “pinched” segment, which should have a smaller width than any of the other channel segments. Its width should be as close to the diameter of the largest particles without causing any clogs. Inlet 2’s higher flow rate will push the particles from inlet 1 to one wall of the pinched segment aligning the particles in a single file flow. As the particles exit the pinched segment, the flow rate of the liquid should have a stronger effect on the smaller particles per the laws of physics, increasing the angle at which they leave the segment. There will be three outlet channels with wide enough widths that do not induce any controlled flow profiles and that leave room for the particles to deviate out of the pinched segment. The first is at a positive 90-degree angle away from the pinched segment to collect the smaller particles. The second is at a 180-degree angle, or straight, to collect the larger particles. The third, which is at a negative 90-degree angle, is a collector of liquid without any particles in it. The depth of all of these channels should be large enough to not clog based on the size of the largest particles you are trying to separate.
 
 Experiment-specific dimensions:
 - Larger particle diameter: 550 microns
@@ -42,6 +41,17 @@ SLA resin printing has a lot of benefits that are essential to 3D manufacturing 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c3ec97dd392138ce?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Iterations
+
+|             | 6%, 8%, 10% Infill     | Failed Dovetail Joints        |
+| ------------|------------------------|:-----------------------------:|
+| Iteration 1 | /assets/img/Infill.jpg |/assets/img/Failed Dovetail.jpg|
+
+|             | Standard Holding       | Standard Closed       | Extra Squeezing           | Expanded Jaw Capacity   |
+| ------------|------------------------|-----------------------|---------------------------|:-----------------------:|
+| Iteration 2 |/assets/img/Holding.jpg |/assets/img/Closed.jpg |/assets/img/ExtraClosed.jpg|/assets/img/ExtraOpen.jpg|
+
 
 
 # Application of PFF
