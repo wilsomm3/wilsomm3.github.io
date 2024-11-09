@@ -21,12 +21,13 @@ The aim of this project is to design and develop a microfluidic device, using re
 
 # Iterations
 
-Iteration 1:
+##Iteration 1
+
 Infill testing: I printed the TPU joint component in three models with infill percentages of 6%, 8%, and 10%.
-/assets/img/Infill.jpg
+assets/img/Infill.jpg
 
 Dovetail fit testing: I was not able to determine the best infill percentage from this iteration because the handle pieces fit too loosely with the joint. The dovetail angles were 70 degrees, the lower dimension was 1.5mm, the upper was 4mm, and the offset clearance between the joint and the PLA pieces was 0.2 mm. This led to more square-like dovetail joints that did not retain the pieces to the joint during pinching.
-/assets/img/Failed Dovetail.jpg
+assets/img/Failed Dovetail.jpg
 
 
 |             | 6%, 8%, 10% Infill    | Failed Dovetail Joints       |
