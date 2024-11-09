@@ -21,7 +21,7 @@ The aim of this project is to design and develop a microfluidic device, using re
 
 # Iterations
 
-##Iteration 1
+## Iteration 1
 
 Infill testing: I printed the TPU joint component in three models with infill percentages of 6%, 8%, and 10%.
 
