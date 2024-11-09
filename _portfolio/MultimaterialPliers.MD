@@ -44,13 +44,13 @@ SLA resin printing has a lot of benefits that are essential to 3D manufacturing 
 
 # Iterations
 
-|             | 6%, 8%, 10% Infill     | Failed Dovetail Joints        |
-| ------------|------------------------|:-----------------------------:|
-| Iteration 1 | /assets/img/Infill.jpg |/assets/img/Failed Dovetail.jpg|
+|             | 6%, 8%, 10% Infill    | Failed Dovetail Joints       |
+| ------------|-----------------------|:----------------------------:|
+| Iteration 1 | assets/img/Infill.jpg |assets/img/Failed Dovetail.jpg|
 
-|             | Standard Holding       | Standard Closed       | Extra Squeezing           | Expanded Jaw Capacity   |
-| ------------|------------------------|-----------------------|---------------------------|:-----------------------:|
-| Iteration 2 |/assets/img/Holding.jpg |/assets/img/Closed.jpg |/assets/img/ExtraClosed.jpg|/assets/img/ExtraOpen.jpg|
+|             | Standard Holding      | Standard Closed     | Extra Squeezing        | Expanded Jaw Capacity   |
+| ------------|-----------------------|----------------------|--------------------------|:-----------------------:|
+| Iteration 2 |assets/img/Holding.jpg |assets/img/Closed.jpg |assets/img/ExtraClosed.jpg|assets/img/ExtraOpen.jpg|
 
 
 
