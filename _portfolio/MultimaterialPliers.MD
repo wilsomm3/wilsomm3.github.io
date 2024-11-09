@@ -14,35 +14,20 @@ The aim of this project is to design and develop a microfluidic device, using re
 # About Multimaterial Parts
 
 
-Experiment-specific dimensions:
-- Larger particle diameter: 550 microns
-- Smaller particle diameter: 165 microns
-- Channel depth: 1000 microns
-- Inlet 1 and 2 width: 1500 microns
-- Pinched segment width: 800 microns
-- Outlet channels width: 1000 microns
-
-![Dimension Diagram](/assets/img/Diagram.png)   
-
-# Instructions after mold is 3D printed
-1. Post cure the resin-printed mold for 1 minute to keep warping to a minimum
-2. Coat the inside with parylene (more information on this below)
-3. Fill with PDMS
-![Pouring PDMS](/assets/img/IMG_7710.jpg)  
-4. Vacuum the air bubbles out of the PDMS
-5. Let the PDMS set
-6. Remove from mold and add glass slide
-
-SLA resin printing has a lot of benefits that are essential to 3D manufacturing microfluidic devices, the most notable of which is the small resolution that the ultraviolet laser can cure, or harden, the resin with. In the image below, this would result in a line width on the scale of micrometers. In other words, I could print really small features that would create microchannels in the final PDMS device. However, the biggest drawback of SLA resin printing is that the laser’s scanning pattern inherently leaves some resin uncured in liquid form within the final part. This happens because the cross-sections of the laser lines are parabolas as shown in the image below, and with a bunch of parabolas stacked next to each other, there will be empty space where resin does not get cured. The uncured resin will leak from inside the part to the surface over time, which would prevent the PDMS material from hardening in the mold. Therefore, I coated the 3D resin-printed mold in a very thin layer of parylene, a hydrophobic polymer, that keeps the uncured resin from leaking to the surface. After this coating is applied, the mold can be used to make many more microfluidic devices.
-
-![Parabolic Laser Cross Section](/assets/img/DragonScale.png)
-(From Additive Manufacturing 3rd Edition.)
 
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c3ec97dd392138ce?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Iterations
+
+Iteration 1:
+Infill testing: I printed the TPU joint component in three models with infill percentages of 6%, 8%, and 10%.
+/assets/img/Infill.jpg
+
+Dovetail fit testing: I was not able to determine the best infill percentage from this iteration because the handle pieces fit too loosely with the joint. The dovetail angles were 70 degrees, the lower dimension was 1.5mm, the upper was 4mm, and the offset clearance between the joint and the PLA pieces was 0.2 mm. This led to more square-like dovetail joints that did not retain the pieces to the joint during pinching.
+/assets/img/Failed Dovetail.jpg
+
 
 |             | 6%, 8%, 10% Infill    | Failed Dovetail Joints       |
 | ------------|-----------------------|:----------------------------:|
