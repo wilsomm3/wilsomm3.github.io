@@ -34,7 +34,7 @@ Dovetail fit testing: I could not determine the best infill percentage from this
 
 |             | Standard Holding         | Standard Closed         | Extra Squeezing             | Expanded Jaw Capacity     |
 | ------------|--------------------------|-------------------------|-----------------------------|:-------------------------:|
-| Iteration 2 |(/assets/img/Holding.jpg) |(/assets/img/Closed.jpg) |(/assets/img/ExtraClosed.jpg)|(/assets/img/ExtraOpen.jpg)|
+| Iteration 2 |![Hold](/assets/img/Holding.jpg) |![Close](/assets/img/Closed.jpg) |![Squeeze](/assets/img/ExtraClosed.jpg)|![Open](/assets/img/ExtraOpen.jpg)|
 
 
 
