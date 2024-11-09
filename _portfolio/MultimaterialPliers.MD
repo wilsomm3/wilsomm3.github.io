@@ -30,7 +30,7 @@ Dovetail fit testing: I could not determine the best infill percentage from this
 
 |               | 6%, 8%, 10% Infill                | Failed Dovetail Joints                     |
 | --------------|-----------------------------------|:------------------------------------------:|
-| Iteration 1   | ![Infill](/assets/img/Infill.jpg) |![Dovetail](/assets/img/Failed Dovetail.jpg)|
+| Iteration 1   | ![Infill](/assets/img/Infill.jpg) |![Dovetail](/assets/img/FailedDovetail.jpg)|
 
 |             | Standard Holding         | Standard Closed         | Extra Squeezing             | Expanded Jaw Capacity     |
 | ------------|--------------------------|-------------------------|-----------------------------|:-------------------------:|
