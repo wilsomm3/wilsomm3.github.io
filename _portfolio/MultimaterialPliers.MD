@@ -1,6 +1,6 @@
 ---
-title: "Microfluidic Pinch Flow Fractionation Device"
-excerpt: "Separates particles by size."
+title: "Multimaterial Pliers"
+excerpt: "Functional pliers 3D printed out of a combo of TPU and PLA."
 header:
   teaser: /assets/img/IMG_7778.jpg
 ---
