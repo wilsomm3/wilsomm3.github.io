@@ -6,10 +6,6 @@ header:
 ---
 ![Iteration1](/assets/img/Holding.jpg)   
 
-# Purpose
-
-The aim of this project is to design and develop a microfluidic device, using resin 3D printing technology, that can separate particles based on their size. The method used for separation is pinch flow fractionation (PFF).
-
 
 # About Multimaterial Parts
 
@@ -26,7 +22,6 @@ The jaw length is approximately 30 mm long: 10 mm straight part and 20 mm part a
 
 
 # Print Settings
-
 ### Rigid
 
 The plier handles and pinchers shown in white were printed in PLA on the Voron 300 with a 0.6 nozzle. The settings were all set to default, except the infill was gyroid pattern at 10%.
@@ -37,7 +32,6 @@ The joint shown in black was printed in TPU 95A on the Voron 300 with a 0.6 nozz
 
 
 # Iterations
-
 ### Iteration 1
 
 Infill testing: I printed the TPU joint component in three models with infill percentages of 6%, 8%, and 10%. The joint was designed to be a diamond shape, rather than a square, in this iteration. This made it harder to pick the correct infill angle because 45 degrees did not. The next iteration
