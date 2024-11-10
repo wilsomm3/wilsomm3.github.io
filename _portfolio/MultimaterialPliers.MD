@@ -19,9 +19,11 @@ The aim of this project is to design and develop a microfluidic device, using re
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c3ec97dd392138ce?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+
 # Specifications
 
 The jaw length is approximately 30 mm long: 10 mm straight part and 20 mm part angled at 8 degrees. The handles are 7 cm apart and 9.5 cm long. The joint is 30mm x 30mm.
+
 
 # Print Settings
 
@@ -32,6 +34,7 @@ The plier handles and pinchers shown in white were printed in PLA on the Voron 3
 ### Elastic
 
 The joint shown in black was printed in TPU 95A on the Voron 300 with a 0.6 nozzle. The solid layers on the top and bottom were set to 0. The infill was set to 10% with the rectilinear pattern angled 45 degrees. All other settings were set to default.
+
 
 # Iterations
 
@@ -69,17 +72,4 @@ Functionality: I made the handles parallel to each other, rather than angling ou
 |             | Standard Holding         | Standard Closed         | Extra Squeezing             | Expanded Jaw Capacity     |
 | ------------|--------------------------|-------------------------|-----------------------------|:-------------------------:|
 | Iteration 2 |![Hold](/assets/img/Holding.jpg) |![Close](/assets/img/Closed.jpg) |![Squeeze](/assets/img/ExtraClosed.jpg)|![Open](/assets/img/ExtraOpen.jpg)|
-
-
-
-# Application of PFF
-Pinch flow fractionation is an effective technique for separating particles by size. A few hypothetical applications are given below:
-- DNA mutation diagnoses when DNA segments have been cleaved and are smaller than others
-- Testing blood by separating it into red blood cells, white blood cells, and platelets
-- Identifying environmental pollutants in water
-
-(From AI generated Google search)
-
-In all of these applications, the greatest benefit of using microfluidic devices compared to other testing devices is the reduced sample volume needed. For example, instead of taking pints of blood, a patient can give a sample as small as 5 mL, and the device would function. This significantly reduces cost as well.
-
 
