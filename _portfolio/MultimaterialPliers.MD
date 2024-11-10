@@ -19,6 +19,10 @@ The aim of this project is to design and develop a microfluidic device, using re
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4c3ec97dd392138ce?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Specifications
+
+The jaw length is approximately 30 mm long: 10 mm straight part and 20 mm part angled at 8 degrees. The handles are 7 cm apart and 9.5 cm long. The joint is 30mm x 30mm.
+
 # Print Settings
 
 ### Rigid
