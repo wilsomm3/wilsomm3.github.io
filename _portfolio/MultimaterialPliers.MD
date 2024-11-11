@@ -71,3 +71,7 @@ Functionality: I made the handles parallel to each other, rather than angling ou
 |                | Standard Holding        | Standard Closed         |
 | ---------------|-----------------------------------|:------------------------------------------:|
 | Iteration 3    | ![Final Holding](/assets/img/FinalHolding.jpg) |![Final Closed](/assets/img/FinalClosed.jpg)|
+
+
+# GIF
+![It Works(/assets/img/Pliers.gif)
