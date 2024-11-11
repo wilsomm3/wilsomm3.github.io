@@ -2,9 +2,9 @@
 title: "Multimaterial Pliers"
 excerpt: "Functional pliers 3D printed out of a combo of TPU and PLA."
 header:
-  teaser: /assets/img/Holding.jpg
+  teaser: /assets/img/Final.jpg
 ---
-![Iteration1](/assets/img/Holding.jpg)   
+![Iteration1](/assets/img/Final.jpg)   
 
 
 # Background
@@ -64,7 +64,10 @@ Functionality: I made the handles parallel to each other, rather than angling ou
 | --------------|-----------------------------------|:------------------------------------------:|
 | Iteration 1   | ![Infill](/assets/img/Infill.jpg) |![Dovetail](/assets/img/FailedDovetail.jpg)|
 
-|             | Standard Holding         | Standard Closed         | Extra Squeezing (3)     | Expanded Jaw Capacity     |
-| ------------|--------------------------|-------------------------|-----------------------------|:-------------------------:|
-| Iteration 2 |![Hold](/assets/img/Holding.jpg) |![Close](/assets/img/Closed.jpg) |![Squeeze](/assets/img/ExtraClosed.jpg)|![Open](/assets/img/ExtraOpen.jpg)|
+|             | Standard Holding         | Standard Closed         | Extra Squeezing (3)     |
+| ------------|--------------------------|-------------------------|:-----------------------:|
+| Iteration 2 |![Hold](/assets/img/Holding.jpg) |![Close](/assets/img/Closed.jpg) |![Squeeze](/assets/img/ExtraClosed.jpg)|
 
+|               | Standard Holding        | Standard Closed         |
+| --------------|-----------------------------------|:------------------------------------------:|
+| Iteration 3   | ![Final Holding](/assets/img/FinalHolding.jpg) |![Final Closed](/assets/img/FinalClosed.jpg)|
