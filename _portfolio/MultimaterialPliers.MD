@@ -39,7 +39,7 @@ see picture gallery below for references
 
 Infill testing: I printed the TPU joint component in three models with infill percentages of 6%, 8%, and 10% (1). The joint was designed to be a diamond shape, rather than a square, in this iteration. This made it harder to pick the correct infill angle because 45 degrees did not line up perfectly with the edges.
 
-Dovetail fit testing: I could not determine the best infill percentage from this iteration because the handle pieces fit too loosely with the joint. The dovetail angles were 70 degrees, the lower dimension was 1.5mm, the upper was 4mm, and the offset clearance between the joint and the PLA pieces was 0.2 mm. This led to more square-like dovetail joints that did not retain the pieces to the joint during pinching.
+Dovetail fit testing: I could not determine the best infill percentage from this iteration because the handle pieces fit too loosely with the joint. The dovetail angles were 70 degrees, the lower dimension was 1.5mm, the upper was 4mm, and the offset clearance between the joint and the PLA pieces was 0.2 mm. This led to more square-like dovetail joints that did not retain the pieces to the joint during pinching (2).
 
 Functionality: none
 
@@ -60,14 +60,14 @@ Dovetail fit testing: none. I reused the clearance and geometry from iteration 2
 Functionality: I made the handles parallel to each other, rather than angling outward, to increase ergonomics. I added an angle away from the midline to the end of the pinchers, which increased the jaw capacity to 9 mm and the surface area at which the pinchers met. I also completed the joints that were coming loose in iteration 2.
 
 
-|               | 6%, 8%, 10% Infill (1)         | Failed Dovetail Joints (2)         |
-| --------------|-----------------------------------|:------------------------------------------:|
-| Iteration 1   | ![Infill](/assets/img/Infill.jpg) |![Dovetail](/assets/img/FailedDovetail.jpg)|
+|                | 6%, 8%, 10% Infill (1)         | Failed Dovetail Joints (2)         |
+| ---------------|-----------------------------------|:------------------------------------------:|
+| Iteration 1    | ![Infill](/assets/img/Infill.jpg) |![Dovetail](/assets/img/FailedDovetail.jpg)|
 
-|             | Standard Holding         | Standard Closed         | Extra Squeezing (3)     |
-| ------------|--------------------------|-------------------------|:-----------------------:|
-| Iteration 2 |![Hold](/assets/img/Holding.jpg) |![Close](/assets/img/Closed.jpg) |![Squeeze](/assets/img/ExtraClosed.jpg)|
+|                | Standard Holding         | Standard Closed         | Extra Squeezing (3)     |
+| ---------------|--------------------------|-------------------------|:-----------------------:|
+| Iteration 2    |![Hold](/assets/img/Holding.jpg) |![Close](/assets/img/Closed.jpg) |![Squeeze](/assets/img/ExtraClosed.jpg)|
 
-|               | Standard Holding        | Standard Closed         |
-| --------------|-----------------------------------|:------------------------------------------:|
-| Iteration 3   | ![Final Holding](/assets/img/FinalHolding.jpg) |![Final Closed](/assets/img/FinalClosed.jpg)|
+|                | Standard Holding        | Standard Closed         |
+| ---------------|-----------------------------------|:------------------------------------------:|
+| Iteration 3    | ![Final Holding](/assets/img/FinalHolding.jpg) |![Final Closed](/assets/img/FinalClosed.jpg)|
