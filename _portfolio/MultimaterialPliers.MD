@@ -74,4 +74,4 @@ Functionality: I made the handles parallel to each other, rather than angling ou
 
 
 # GIF
-![It Works(/assets/img/Pliers.gif)
+![It Works](/assets/img/Pliers.gif)
