@@ -49,7 +49,7 @@ Infill testing: The joint was changed to be a 30x30mm square. All were springy e
 
 Dovetail fit testing: The lower dimension stayed 1.5mm, but the upper was increased to 5mm, the angle was decreased to 50 degrees, and the offset clearance was reduced to 0.1mm.
 
-Functionality: This iteration of the pliers opened and closed as required, but I wanted to optimize it. The ergonomics of the handle were not ideal since I had to stretch my hand too far to comfortably squeeze the handle. Also, the jaw capacity was only 4mm and met at a small point. Finally, if I squeezed it tightly, the half-dovetail joints between the jaws and the joint would come loose as shown in the red circle below (3).
+Functionality: This iteration of the pliers opened and closed as required, but I wanted to optimize it. The ergonomics of the handle were not ideal since I had to stretch my hand too far to comfortably squeeze the handle. Also, the jaw capacity was only 4mm and met at a small point, which is not conducive to picking up larger objects. Finally, if I squeezed it tightly, the half-dovetail joints between the jaws and the joint would come loose as shown in the red circle below (3).
 
 ### Iteration 3
 
