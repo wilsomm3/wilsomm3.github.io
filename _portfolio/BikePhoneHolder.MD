@@ -30,7 +30,7 @@ I had an initial design concept prototype printed out of PLA that was successful
 
 **Spring Component:**
 1. A 4mm diameter, 20mm long spring must be attached to the hook on the underside of the phone fixation component.
-2. Seat the phone fixation into the bike fixation.
+2. Seat the phone fixation into the bike fixation aligning the pegs with the slots.
 3. Pull the bottom loop of the spring through the hole under the bike fixation.
 4. Attach the spring to the spring plug’s hook and seat the plug into the hole.
 
