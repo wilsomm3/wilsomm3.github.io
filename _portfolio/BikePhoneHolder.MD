@@ -21,9 +21,9 @@ I wanted my phone holder to have a more binary decision between portrait and lan
 
 I had an initial design concept prototype printed out of PLA that was successful, but on the second print, which was my first full iteration, many of the features did not form. This led me to switch to SLS powder-printing out of Nylon PA12.
 
-|                | Failed Hook of Phone Fixation     | Failed Bike Fixation        |
-| ---------------|-----------------------------------|:-------------------------------:|
-| Iteration 1    | ![Hook failed](/assets/img/PhoneFail.jpg) |![Mount failed](/assets/img/BikeFail.jpg)|
+|              | Failed Hook of Phone Fixation     | Failed Bike Fixation        |
+| -------------|-----------------------------------|:-------------------------------:|
+| Iteration 1  | ![Hook failed](/assets/img/PhoneFail.jpg) |![Mount failed](/assets/img/BikeFail.jpg)|
 
 
 # Assembly Instructions
