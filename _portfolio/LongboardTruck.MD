@@ -4,6 +4,7 @@ excerpt: "Motorized longboard truck designed with AI assistance."
 header:
   teaser: /assets/img/Alum_Rendering2.png
 ---
+![Printed Truck](/assets/img/PrintedTruck.jpg)
 
 ## Introduction
 
