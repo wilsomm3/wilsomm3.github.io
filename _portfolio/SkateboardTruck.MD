@@ -62,8 +62,8 @@ I added extra obstacle geometries around the motor mount to ensure it has room t
 
 |          | Aluminum         | Nylon 12       |
 | ---------|--------------------------------------------|:------------------------------------------:|
-| Front    | ![Front_Alum](/assets/img/Alum_Rendering1) |    |
-| Back     |![Front_Alum](/assets/img/Alum_Rendering2)  |    |
+| Front    | ![Front_Alum](/assets/img/Alum_Rendering1.png) |    |
+| Back     |![Front_Alum](/assets/img/Alum_Rendering2.png)  |    |
 
 
 # Aluminum CAD Model
