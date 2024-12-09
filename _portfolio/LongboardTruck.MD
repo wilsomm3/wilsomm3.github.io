@@ -1,6 +1,6 @@
 ---
-title: "Generative Design Skateboard Truck"
-excerpt: "Motorized skateboard truck designed with AI assistance."
+title: "Generative Design Longboard Truck"
+excerpt: "Motorized longboard truck designed with AI assistance."
 header:
   teaser: /assets/img/Alum_Rendering2.png
 ---
@@ -23,7 +23,7 @@ Generative design has the potential to supply lots of design options for an engi
 
 From this project, I learned that the load cases the designer chooses to apply are a large determining factor for the generative design’s outcomes. This can be a drawback for designers who do not have a great understanding of the forces the final outcome will undergo. From my experience with the longboard truck, theoretical force calculations are often not accurate compared to real-life simulations. I believe the most successful designs would have accurately simulated forces applied, which would take lots of prior research. For example, our class discussed how we cannot be sure what the forces of the longboard’s impact with a curb would be due to the wheels’ ability to store some of the kinetic energy. A solution to this would be attaching a gauge to the board and riding it ourselves at top speeds into a curb, but for safety reasons, we were obviously not willing to do this. Instead, I used general calculations and estimations to apply forces in my load cases. Still, I often had to lower the forces I implemented in my load cases in order to get the generative model to converge with a safety factor of 2. I found that these conditions were not conducive to generating a variety of outcomes to choose from, which is one of the largest benefits of using generative design techniques. While load cases are quite essential to ensure the final outcome is durable, they have the potential to highly restrict and diminish the value of the generative models, which is the main drawback I saw.
 
-# My Skateboard Truck
+# My Longboard Truck
 
 ## Preserve Geometries
 
