@@ -1,10 +1,9 @@
 ---
 title: "Generative Design Skateboard Truck"
-excerpt: "Mounts phone to bike handle bars for easy navigation."
+excerpt: "Motorized skateboard truck designed with AI assistance."
 header:
-  teaser: /assets/img/PhoneSecure.jpg
+  teaser: /assets/img/Alum_Rendering2.png
 ---
-![Phone is secure](/assets/img/Standalone.jpg)   
 
 # Generative Design
 
@@ -14,7 +13,7 @@ Generative design uses AI technology to create a model that connects what the de
 
 The aerospace industry is pushing for more fuel-efficient aircraft featuring optimized internal storage spaces, and generative design is helping engineers conceptualize new aircraft forms to meet these standards. Some potential inputs to an aerospace generative study are emissions, materials, aerodynamic geometries, and the forces of takeoff and landing. The study would then output ideal shape options, such as the blended-wing-body, that could replace the traditional tube-and-wing form. The use of AI is creating an expanded path for aerospace engineers to explore and analyze potentially ground-breaking changes to the industry.
 
-From [Siemens] (https://blogs.sw.siemens.com/thought-leadership/2022/10/10/applying-generative-design-to-aerospace/)
+From [Siemens](https://blogs.sw.siemens.com/thought-leadership/2022/10/10/applying-generative-design-to-aerospace/)
 
 ## Utility
 
@@ -24,41 +23,50 @@ Generative design has the potential to supply lots of design options for an engi
 
 From this project, I learned that the load cases the designer chooses to apply are a large determining factor for the generative design’s outcomes. This can be a drawback for designers who do not have a great understanding of the forces the final outcome will undergo. From my experience with the longboard truck, theoretical force calculations are often not accurate compared to real-life simulations. I believe the most successful designs would have accurately simulated forces applied, which would take lots of prior research. For example, our class discussed how we cannot be sure what the forces of the longboard’s impact with a curb would be due to the wheels’ ability to store some of the kinetic energy. A solution to this would be attaching a gauge to the board and riding it ourselves at top speeds into a curb, but for safety reasons, we were obviously not willing to do this. Instead, I used general calculations and estimations to apply forces in my load cases. Still, I often had to lower the forces I implemented in my load cases in order to get the generative model to converge with a safety factor of 2. I found that these conditions were not conducive to generating a variety of outcomes to choose from, which is one of the largest benefits of using generative design techniques. While load cases are quite essential to ensure the final outcome is durable, they have the potential to highly restrict and diminish the value of the generative models, which is the main drawback I saw.
 
+# My Skateboard Truck
 
-# CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4e96fd7743cbcb238?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+## Preserve Geometries
 
-# Design Rationale
+1. The pivot point 
+-   I used this as the structural constraint in my design.
+2. 8.2mm diameter sleeve to accept the threaded connecting rod.
+-   Forces: weight of the rider and curb impact
+3. Motor mounting plate
+-   Forces: weight of the motor, motor torque, and belt tension
+4. Through-hole between bushings
+-   I chose not to apply any forces to this body as the TPU bushings on either side should absorb any loads it experiences.
 
-I wanted my phone holder to have a more binary decision between portrait and landscape mode than a lot of these types of devices have. Therefore, I implemented a slot-peg mechanism with 90 degree rotation between the phone fixation’s interior post and the bike fixation’s exterior post. A spring between the two keeps the phone fixation from flying out of the exterior post.
+## Load Cases
 
-# Material Choice
+1. Regular Riding
+-   This load case simulates a rider standing in the center of the board, not turning, and going approximately 30 km/hr.
+2. Curb Impact
+-   This load case simulates a rider standing in the center of the board, not turning, and going top speed of 55 km/hr when the board has a head-on collision with a curb.
+3. Full-Weight Turn
+-   This load case simulates the rider moving at a normal speed when they shift their entire weight to one side of the board in order to turn. This could also simulate the rider landing on one wheel during a trick, but since this is a motorized longboard, I believe full-weight turning would be a more realistic scenario.
 
-I had an initial design concept prototype printed out of PLA that was successful, but on the second print, which was my first full iteration, many of the features did not form. This led me to switch to SLS powder-printing out of Nylon PA12.
+## Printed Version
 
-|              | Failed Hook of Phone Fixation     | Failed Bike Fixation        |
-| -------------|-----------------------------------|:-------------------------------:|
-| Iteration 1  | ![Hook failed](/assets/img/PhoneFail.jpg) |![Mount failed](/assets/img/BikeFail.jpg)|
+My first aluminum iteration that was SLS printed out of Nylon 12 was successful in fitting over the kingpin with the bushings installed as well as allowing room for the wheels to turn. These functionalities are demonstrated in the GIF below.
+![It Half Works](/assets/img/Turning.gif)
+
+Unfortunately, I was not able to shift the motor the necessary 4mm while the belt between the pulleys was put into tension as shown in the image below. 
+![Pulley Out of Tension](/assets/img/LoosePulley.jpg)
+
+This was due to extra material that the generative design built up around the motor mounting plate that caused interference. The red arrows in the image below point these spots out.
+![Interference](/assets/img/Interference.jpg)
+
+## Updated Design
+
+I added extra obstacle geometries around the motor mount to ensure it has room to shift 4mm during assembly of the belt. Below are renderings and CAD models of the updated generative models.
+
+|          | Aluminum         | Nylon 12       |
+| ---------|--------------------------------------------|:------------------------------------------:|
+| Front    | ![Front_Alum](/assets/img/Alum_Rendering1) |    |
+| Back     |![Front_Alum](/assets/img/Alum_Rendering2)  |    |
 
 
-# Assembly Instructions
+# Aluminum CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a448e821439a5afdfe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-**Spring Component:**
-1. A 4mm diameter, 20mm long spring must be attached to the hook on the underside of the phone fixation component.
-2. Seat the phone fixation into the bike fixation aligning the pegs with the slots.
-3. Pull the bottom loop of the spring through the hole under the bike fixation.
-4. Attach the spring to the spring plug’s hook and seat the plug into the hole.
-
-
-**Mounting:**
-1. Seat the bike fixation on the handlebar.
-2. Feed 2x M5 bolts (50mm length) through each hole in the bike fixation under the handle bar.
-2. Tighten M5 nut and bolt with allen key and pliers.
-
-# Gallery
-
-The bike rider can easily switch the phone between landscape and portrait modes.
-![Rotation](/assets/img/Rotation.gif)
-
-The phone is secure while riding and has the perfect angle for viewing.
-![It Works](/assets/img/InMotion.gif)
+# Nylon CAD Model
