@@ -53,7 +53,7 @@ My first aluminum iteration that was SLS printed out of Nylon 12 was successful 
 Unfortunately, I was not able to shift the motor the necessary 4mm while the belt between the pulleys was put into tension as shown in the image below. 
 ![Pulley Out of Tension](/assets/img/LoosePulley.jpg)
 
-This was due to extra material that the generative design built up around the motor mounting plate that caused interference. The red arrows in the image below point these spots out.
+This was due to extra material that the generative design built up around the motor mounting plate, which caused interference. The red arrows in the image below point these spots out.
 ![Interference](/assets/img/Interference.jpg)
 
 The outer sleeve for the connecting rod also broke during part cleaning, but we can assume this would not have happened if it was actually printed out of aluminum, instead of nylon.
