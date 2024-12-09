@@ -5,7 +5,7 @@ header:
   teaser: /assets/img/Alum_Rendering2.png
 ---
 
-# Generative Design
+## Introduction
 
 Generative design uses AI technology to create a model that connects what the designer designates as preserve geometry while avoiding what they have designated as obstacle geometry. These calculations also take into consideration the predicted load cases that the design will experience during its intended use. As a result, the design generally builds more material in highly loaded areas while minimizing material in other places. Through this process, generative design creates the opportunity for natural geometries that traditional design practices cannot match. These geometries naturally pair with the powder bed fusion manufacturing process. Not only can powder bed fusion produce some of the highest mechanical strengths out of all the additive manufacturing methods, but it also produces resolutions as low as 110 microns. 
 
