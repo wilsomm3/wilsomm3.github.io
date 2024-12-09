@@ -56,9 +56,11 @@ Unfortunately, I was not able to shift the motor the necessary 4mm while the bel
 This was due to extra material that the generative design built up around the motor mounting plate that caused interference. The red arrows in the image below point these spots out.
 ![Interference](/assets/img/Interference.jpg)
 
+The outer sleeve for the connecting rod also broke during part cleaning, but we can assume this would not have happened if it was actually printed out of aluminum, instead of nylon.
+
 ## Updated Design
 
-I added extra obstacle geometries around the motor mount to ensure it has room to shift 4mm during assembly of the belt. Below are renderings and CAD models of the updated generative models.
+I added extra obstacle geometries around the motor mount to ensure it has room to shift 4mm during assembly of the belt. I also added thickness to the outer sleeve to keep it from breaking in future prints. This turned out to make my models much thinner than before, which leads me to believe I could add the full forces I mentioned having to lower while still generating a converged model. Below are renderings and CAD models of the updated generative models.
 
 |          | Aluminum         | Nylon 12       |
 | ---------|--------------------------------------------|:------------------------------------------:|
