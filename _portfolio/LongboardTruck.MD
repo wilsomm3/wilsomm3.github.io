@@ -48,7 +48,7 @@ From this project, I learned that the load cases the designer chooses to apply a
 
 ## Printed Version
 
-My first aluminum iteration that was SLS printed out of Nylon 12 was successful in fitting over the kingpin with the bushings installed as well as allowing room for the wheels to turn. These functionalities are demonstrated in the GIF below.
+My first ALSi10Mg iteration that was SLS printed out of Nylon 12 was successful in fitting over the kingpin with the bushings installed as well as allowing room for the wheels to turn. These functionalities are demonstrated in the GIF below.
 ![It Half Works](/assets/img/Turning.gif)
 
 Unfortunately, I was not able to shift the motor the necessary 4mm while the belt between the pulleys was put into tension as shown in the image below. 
@@ -65,11 +65,12 @@ I added extra obstacle geometries around the motor mount to ensure it has room t
 
 |          | Aluminum         | Nylon 12       |
 | ---------|--------------------------------------------|:------------------------------------------:|
-| Front    | ![Front_Alum](/assets/img/Alum_Rendering1.png) |    |
-| Back     |![Front_Alum](/assets/img/Alum_Rendering2.png)  |    |
+| Front    |![Front Alum](/assets/img/Alum_Rendering1.png) |![Front Nylon](/assets/img/Nylon_Rendering1.png)    |
+| Back     |![Back Alum](/assets/img/Alum_Rendering2.png)  |![Back Nylon](/assets/img/Nylon_Rendering2.png)    |
 
 
 # Aluminum CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a448e821439a5afdfe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Nylon CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a47da0658852cddbde?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
